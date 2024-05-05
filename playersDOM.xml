@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<players>
+    <player id="1">
+        <username>roc</username>
+        <password>1234</password>
+        <name>Roc Rovira</name>
+        <games>5</games>
+        <victories>6</victories>
+    </player>
+</players>
